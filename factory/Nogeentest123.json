@@ -1,0 +1,9 @@
+{
+	"name": "Nogeentest123",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "dcea84ad-c4b1-4ce0-ad78-08b3eeda0389",
+		"tenantId": "84f1e4ea-8554-43e1-8709-f0b8589ea118"
+	}
+}
